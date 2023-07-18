@@ -1,0 +1,4 @@
+修改url值为订阅连接
+
+http://193.122.114.10:8003/sub?target=clash&url=https%3A%2F%2Fsub.23333.moe%2Flink%2F483448c3-d104-4145-ac92-f64807ce7649%2F556%3Ftype%3Dclash&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fshydl3%2Fgptkiddy%2Fmain%2Fgpt.ini&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true
+
